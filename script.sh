@@ -7,3 +7,4 @@
 #develop, commit7
 #develop, commit8
 #develop, commit9
+#master, commit9 after conflict
